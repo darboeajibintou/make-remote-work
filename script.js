@@ -11,5 +11,5 @@ function openMenu() {
 }
 function closeMenu() {
     console.log("menu is clicked");
-    navbar.classList.remove("active");
+    navbar.classList.remove("deactive");
 }
